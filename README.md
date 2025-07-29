@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hey there!
 
 Hi, I'm Sahil — a Data Analyst based in Sydney 🇦🇺 with a passion for AI, cloud tools, and building insightful dashboards. 
 
