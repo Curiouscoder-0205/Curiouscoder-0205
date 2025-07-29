@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 About Me
+
+Hi, I'm Sahil — a Data Analyst based in Sydney 🇦🇺 with a passion for AI, cloud tools, and building insightful dashboards. 
+
+- 💼 **Experience:** 3+ years in Power BI, SQL, and data analytics
+- ☁️ **Cloud Skills:** GCP (BigQuery, Looker Studio), exploring ML with BigQueryML
+  
+- 🎓 **Education:** Master's in IT (Australia)
+- 🧠 **Learning Focus:** AI tools, ML in SQL, real-world problem solving
+- 📊 **Personal Projects:**  [https://github.com/Curiouscoder-0205/Personal-Projects/]
+
 
 <!--
 **Curiouscoder-0205/Curiouscoder-0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
