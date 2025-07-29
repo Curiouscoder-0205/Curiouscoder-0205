@@ -5,7 +5,7 @@ Hi, I'm Sahil — a Data Analyst based in Sydney 🇦🇺 with a passion for AI,
 - 💼 **Experience:** 3+ years in Power BI, SQL, and data analytics
 - ☁️ **Cloud Skills:** GCP (BigQuery, Looker Studio), exploring ML with BigQueryML
   
-- 🎓 **Education:** Master's in IT (Australia)
+- 🎓 **Education:** Master's in Data Analytics (Australia)
 - 🧠 **Learning Focus:** AI tools, ML in SQL, real-world problem solving
 - 📊 **Personal Projects:**  [https://github.com/Curiouscoder-0205/Personal-Projects/]
 
