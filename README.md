@@ -4,6 +4,7 @@ Hi, I'm Sahil — a Data Analyst based in Sydney 🇦🇺 with a passion for AI,
 
 - 💼 **Experience:** 3+ years in Power BI, SQL, and data analytics
 - ☁️ **Cloud Skills:** GCP (BigQuery, Looker Studio, Vertex AI), exploring ML, AutoML with BigQueryML
+- [LinkedIn](https://www.linkedin.com/in/sahil-nagpal-318999172/)
   
 - 🎓 **Education:** Master's in Data Analytics (Australia)
 - 🧠 **Learning Focus:** AI tools, ML in SQL, real-world problem solving
